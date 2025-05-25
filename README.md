@@ -12,7 +12,7 @@
 </div>
 
 ## 🚀 Sobre mim
-
+  👋 Hi! Nice to meet you! I'm Gabriel, a curious person who's passionate about technology. I believe that curiosity was important in my learning, and it was what led me to explore areas such as design and programming. I dedicate my time to continuous learning, always seeking to improve my skills and expand my knowledge.
 
 
 
