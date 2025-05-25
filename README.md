@@ -11,7 +11,7 @@
   <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbinho&layout=compact&title_color=A7FC00&text_color=ffffff&bg_color=0d1117" />
 </div>
 
-## 🚀 Sobre mim
+## 🚀 About me
   👋 Hi! Nice to meet you! I'm Gabriel, a curious person who's passionate about technology. I believe that curiosity was important in my learning, and it was what led me to explore areas such as design and programming. I dedicate my time to continuous learning, always seeking to improve my skills and expand my knowledge.
 
 
@@ -19,7 +19,7 @@
 
   ##
 <div style="display: inline_block">
-  <h3>Skills</h3>
+  <h3>Main skills</h3>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="LINUX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
