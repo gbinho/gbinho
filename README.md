@@ -7,7 +7,7 @@
   ##
 <div align="center"> 
   <h3 align="left"> Git Stats </h3>
-  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=gbinho&show_icons=true&count_private=true&title_color=00ffc8&icon_color=A7FC00&text_color=ffffff&bg_color=0d1117" alt="5alomao's github stats" /> 
+  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=gbinho&show_icons=true&count_private=true&title_color=00ffc8&icon_color=00ffc8&text_color=ffffff&bg_color=0d1117" alt="5alomao's github stats" /> 
   <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbinho&layout=compact&title_color=00ffc8&text_color=ffffff&bg_color=0d1117" />
 </div>
 
