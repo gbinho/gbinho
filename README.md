@@ -7,8 +7,8 @@
   ##
 <div align="center"> 
   <h3 align="left"> Git Stats </h3>
-  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=gbinho&show_icons=true&count_private=true&title_color=A7FC00&icon_color=A7FC00&text_color=ffffff&bg_color=0d1117" alt="5alomao's github stats" /> 
-  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbinho&layout=compact&title_color=A7FC00&text_color=ffffff&bg_color=0d1117" />
+  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=gbinho&show_icons=true&count_private=true&title_color=00ffc8&icon_color=A7FC00&text_color=ffffff&bg_color=0d1117" alt="5alomao's github stats" /> 
+  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbinho&layout=compact&title_color=00ffc8&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 ## 🚀 About me
@@ -38,4 +38,4 @@
   <a href="https://www.linkedin.com/in/gabriel-santiago-6a022b204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A7FC00&height=150&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffc8&height=150&section=footer"/>
