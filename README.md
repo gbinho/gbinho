@@ -1,16 +1,9 @@
 - 👋 Hi, I’m @gbinho
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffc8&height=180&section=header&text=Gabriel+Santiago&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF4424&height=180&section=header&text=Gabriel+Santiago&fontSize=49&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem-Vindo!+:%29;Hello,+Be-Welcome!+:%29;)](https://git.io/typing-svg)
-
-  ##
 <div align="center"> 
-  <h3 align="left"> Git Stats </h3>
-  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=gbinho&show_icons=true&count_private=true&title_color=00ffc8&icon_color=00ffc8&text_color=ffffff&bg_color=0d1117" alt="5alomao's github stats" /> 
-  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbinho&layout=compact&title_color=00ffc8&text_color=ffffff&bg_color=0d1117" />
-</div>
-
 ## 🚀 About me
   👋 Hi! Nice to meet you! I'm Gabriel, a curious person who's passionate about technology. I believe that curiosity was important in my learning, and it was what led me to explore areas such as design and programming. I dedicate my time to continuous learning, always seeking to improve my skills and expand my knowledge.
 
